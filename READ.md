@@ -167,3 +167,13 @@ Advantages of Props
         Props help components share information in a simple way.
 
 Props are values passed from one component to another component to make components reusable and dynamic.
+
+Props are immutable, Read-only.
+
+Passing arrays or object to props
+
+Rendering array or list
+
+Rendering array of objects
+
+Rendering Componenst in loop
