@@ -1,5 +1,6 @@
 import Fruits from "./components/Fruits";
-import Hello from "./components/Hello";
+import ConditionalComponent from "./components/ConditionalComponent";
+// import Hello from "./components/Hello";
 
 function App() {
   // const person = {
